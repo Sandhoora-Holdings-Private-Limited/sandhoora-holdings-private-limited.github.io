@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<juiceboxgallery
+				galleryTitle="SH-004 - Wellawatte - Mr.Kushan"
+					useFullscreenExpand="true"
+		>
+			<image imageURL="images/2.jpg" thumbURL="thumbs/2.jpg" linkURL="" linkTarget="_blank">
+			<title><![CDATA[]]></title>
+			<caption><![CDATA[]]></caption>
+		</image>
+			<image imageURL="images/1.jpg" thumbURL="thumbs/1.jpg" linkURL="" linkTarget="_blank">
+			<title><![CDATA[]]></title>
+			<caption><![CDATA[]]></caption>
+		</image>
+			<image imageURL="images/3.jpg" thumbURL="thumbs/3.jpg" linkURL="" linkTarget="_blank">
+			<title><![CDATA[]]></title>
+			<caption><![CDATA[]]></caption>
+		</image>
+	</juiceboxgallery>

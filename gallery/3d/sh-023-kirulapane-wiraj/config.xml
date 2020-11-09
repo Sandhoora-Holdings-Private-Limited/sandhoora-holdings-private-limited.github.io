@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<juiceboxgallery
+				galleryTitle="SH-023 - Kirulapane - Wiraj"
+					useFullscreenExpand="true"
+		>
+			<image imageURL="images/n2.jpg" thumbURL="thumbs/n2.jpg" linkURL="" linkTarget="_blank">
+			<title><![CDATA[]]></title>
+			<caption><![CDATA[]]></caption>
+		</image>
+			<image imageURL="images/n1.jpg" thumbURL="thumbs/n1.jpg" linkURL="" linkTarget="_blank">
+			<title><![CDATA[]]></title>
+			<caption><![CDATA[]]></caption>
+		</image>
+			<image imageURL="images/n3.jpg" thumbURL="thumbs/n3.jpg" linkURL="" linkTarget="_blank">
+			<title><![CDATA[]]></title>
+			<caption><![CDATA[]]></caption>
+		</image>
+	</juiceboxgallery>

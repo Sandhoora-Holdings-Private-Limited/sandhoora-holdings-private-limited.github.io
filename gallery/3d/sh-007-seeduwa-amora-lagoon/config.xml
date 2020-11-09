@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<juiceboxgallery
+				galleryTitle="SH-007 - Seeduwa - Amora Lagoon"
+					useFullscreenExpand="true"
+		>
+			<image imageURL="images/IMG-20180314-WA0004.jpg" thumbURL="thumbs/IMG-20180314-WA0004.jpg" linkURL="" linkTarget="_blank">
+			<title><![CDATA[]]></title>
+			<caption><![CDATA[]]></caption>
+		</image>
+			<image imageURL="images/IMG-20180314-WA0003.jpg" thumbURL="thumbs/IMG-20180314-WA0003.jpg" linkURL="" linkTarget="_blank">
+			<title><![CDATA[]]></title>
+			<caption><![CDATA[]]></caption>
+		</image>
+	</juiceboxgallery>

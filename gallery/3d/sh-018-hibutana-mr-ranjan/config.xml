@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<juiceboxgallery
+				galleryTitle="SH-018 - Hibutana - Mr.Ranjan"
+					useFullscreenExpand="true"
+		>
+			<image imageURL="images/IMG-20170613-WA0002.jpg" thumbURL="thumbs/IMG-20170613-WA0002.jpg" linkURL="" linkTarget="_blank">
+			<title><![CDATA[]]></title>
+			<caption><![CDATA[]]></caption>
+		</image>
+			<image imageURL="images/IMG-20170613-WA0001.jpg" thumbURL="thumbs/IMG-20170613-WA0001.jpg" linkURL="" linkTarget="_blank">
+			<title><![CDATA[]]></title>
+			<caption><![CDATA[]]></caption>
+		</image>
+			<image imageURL="images/IMG-20170613-WA0003.jpg" thumbURL="thumbs/IMG-20170613-WA0003.jpg" linkURL="" linkTarget="_blank">
+			<title><![CDATA[]]></title>
+			<caption><![CDATA[]]></caption>
+		</image>
+	</juiceboxgallery>

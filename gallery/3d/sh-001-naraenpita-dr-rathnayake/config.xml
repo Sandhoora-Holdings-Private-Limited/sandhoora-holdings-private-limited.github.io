@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<juiceboxgallery
+				galleryTitle="SH-001 - Naraenpita - Dr.Rathnayake"
+					useFullscreenExpand="true"
+		>
+			<image imageURL="images/IMG_1019.jpg" thumbURL="thumbs/IMG_1019.jpg" linkURL="" linkTarget="_blank">
+			<title><![CDATA[]]></title>
+			<caption><![CDATA[]]></caption>
+		</image>
+			<image imageURL="images/IMG_1020.jpg" thumbURL="thumbs/IMG_1020.jpg" linkURL="" linkTarget="_blank">
+			<title><![CDATA[]]></title>
+			<caption><![CDATA[]]></caption>
+		</image>
+			<image imageURL="images/IMG_1021.jpg" thumbURL="thumbs/IMG_1021.jpg" linkURL="" linkTarget="_blank">
+			<title><![CDATA[]]></title>
+			<caption><![CDATA[]]></caption>
+		</image>
+	</juiceboxgallery>
